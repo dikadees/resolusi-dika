@@ -1,4 +1,6 @@
 rencana konten
 - web
+  * javascript
+  * freamwork
 - .net
 - phyton
